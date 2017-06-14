@@ -1,0 +1,40 @@
+body {
+
+  background-color: #40D4FF;
+}
+
+p {
+  margin: 8px;
+  padding: 8px;
+}
+
+footer {
+  margin: auto;
+  padding: inherit;
+  font-weight: bolder;
+  font-size: 150%;
+  text-transform: capitalize;
+}
+
+article {
+  margin: auto;
+  padding: inherit;
+
+}
+#signature {
+  margin: auto;
+  padding: inherit;
+}
+
+.ampersand {
+  margin: auto;
+  padding: inherit;
+  font-family: fantasy;
+  color: #FF9F00;
+}
+
+#pizzafacecat {
+  width: 250px;
+  height: 250px;
+
+}
