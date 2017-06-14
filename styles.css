@@ -3,9 +3,20 @@ body {
   background-color: #40D4FF;
 }
 
+h1 {
+
+  margin: 8px;
+  padding: 8px;
+  font-weight: bolder;
+  font-style: oblique;
+  font-size: 150%;
+
+}
+
 p {
   margin: 8px;
   padding: 8px;
+  width: 450px;
 }
 
 footer {
@@ -14,6 +25,7 @@ footer {
   font-weight: bolder;
   font-size: 150%;
   text-transform: capitalize;
+  color: #FFFFFF;
 }
 
 article {
@@ -22,19 +34,21 @@ article {
 
 }
 #signature {
-  margin: auto;
-  padding: inherit;
+  margin: 8px;
+  padding: 8px;
 }
 
 .ampersand {
-  margin: auto;
-  padding: inherit;
+  margin: 8px;
+  padding: 8px;
   font-family: fantasy;
   color: #FF9F00;
 }
 
-#pizzafacecat {
-  width: 250px;
-  height: 250px;
+.pizzacat {
+  width: 450px;
+  height: 450px;
+  margin: 8px;
+  padding: 8px;
 
 }
