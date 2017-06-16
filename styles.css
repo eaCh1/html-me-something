@@ -1,23 +1,22 @@
 body {
-
   background-color: #40D4FF;
 }
 
 h1 {
-
   margin: 8px;
   padding: 8px;
   font-weight: bolder;
   font-style: oblique;
   font-size: 225%;
   color: #FFFFFF;
-
 }
 
 p {
   margin: 8px;
   padding: 8px;
   width: 450px;
+  font-family: sans-serif;
+  text-align: center;
 }
 
 footer {
@@ -32,8 +31,8 @@ footer {
 article {
   margin: auto;
   padding: inherit;
-
 }
+
 #signature {
   margin: 8px;
   padding: 8px;
@@ -51,5 +50,4 @@ article {
   height: 450px;
   margin: 8px;
   padding: 8px;
-
 }
